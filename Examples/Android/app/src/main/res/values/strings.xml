@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QVue IFT</string>
+    <string name="api_base">https://quidel-staging.reliantid.com</string>
+</resources>
