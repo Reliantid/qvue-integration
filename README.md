@@ -16,7 +16,7 @@ Quidel will provide you an **Integration Key**, which you will use to authorize 
 
 Integrating your Android, iOS, React Native, etc. app with the QVue app can be accomplished with just a few steps.
 
-![Integtration App Flow](/doc_resources/interface_flow.png "QVue Integration Flow")
+![Integtration App Flow](/readme_images/interface_flow.png "QVue Integration Flow")
 _Integration Flow Diagram_
 
 ##### Step 1 - Request Test Access Key
@@ -126,6 +126,6 @@ has the following response:
 }
 ```
 
-## Sample Code
+## Integration Examples
 
-This repository contains sample app projects which demonstrate how to integrate with the QVue app. There are sample projects for Android (Java), iOS (Swift), and React Native.
+This repository contains a few example app projects, located in the `/examples` directory. There are separate app project examples for Android (Java), iOS (Swift), and React Native. These projects contain sample code on how to get a Test Access Key, initiate the deep link to run the test, and query the API to get the test result.
